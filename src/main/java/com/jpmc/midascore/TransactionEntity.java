@@ -21,7 +21,7 @@ public class TransactionEntity {
 
     private float amount;
 
-    private float incentive; // ✅ new field for incentive amount
+    private float incentive; 
 
 
     public TransactionEntity() {
